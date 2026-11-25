@@ -1,0 +1,11 @@
+/Users/yevhenpetrun/УжНУ/Роботи/bachelor-thesis/TwinFlow/backend/src/TwinFlow.Infrastructure/bin/Debug/net9.0/TwinFlow.Infrastructure.deps.json
+/Users/yevhenpetrun/УжНУ/Роботи/bachelor-thesis/TwinFlow/backend/src/TwinFlow.Infrastructure/bin/Debug/net9.0/TwinFlow.Infrastructure.dll
+/Users/yevhenpetrun/УжНУ/Роботи/bachelor-thesis/TwinFlow/backend/src/TwinFlow.Infrastructure/bin/Debug/net9.0/TwinFlow.Infrastructure.pdb
+/Users/yevhenpetrun/УжНУ/Роботи/bachelor-thesis/TwinFlow/backend/src/TwinFlow.Infrastructure/obj/Debug/net9.0/TwinFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yevhenpetrun/УжНУ/Роботи/bachelor-thesis/TwinFlow/backend/src/TwinFlow.Infrastructure/obj/Debug/net9.0/TwinFlow.Infrastructure.AssemblyInfoInputs.cache
+/Users/yevhenpetrun/УжНУ/Роботи/bachelor-thesis/TwinFlow/backend/src/TwinFlow.Infrastructure/obj/Debug/net9.0/TwinFlow.Infrastructure.AssemblyInfo.cs
+/Users/yevhenpetrun/УжНУ/Роботи/bachelor-thesis/TwinFlow/backend/src/TwinFlow.Infrastructure/obj/Debug/net9.0/TwinFlow.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/yevhenpetrun/УжНУ/Роботи/bachelor-thesis/TwinFlow/backend/src/TwinFlow.Infrastructure/obj/Debug/net9.0/TwinFlow.Infrastructure.dll
+/Users/yevhenpetrun/УжНУ/Роботи/bachelor-thesis/TwinFlow/backend/src/TwinFlow.Infrastructure/obj/Debug/net9.0/refint/TwinFlow.Infrastructure.dll
+/Users/yevhenpetrun/УжНУ/Роботи/bachelor-thesis/TwinFlow/backend/src/TwinFlow.Infrastructure/obj/Debug/net9.0/TwinFlow.Infrastructure.pdb
+/Users/yevhenpetrun/УжНУ/Роботи/bachelor-thesis/TwinFlow/backend/src/TwinFlow.Infrastructure/obj/Debug/net9.0/ref/TwinFlow.Infrastructure.dll
